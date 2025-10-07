@@ -1,0 +1,5 @@
+# List of packages to install
+steam
+wine
+lutris
+# Add more emulators or games here
